@@ -150,7 +150,7 @@ A API estará acessível em `http://localhost:3000`.
 
 ## Licença
 
-Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para obter mais detalhes.
+Este projeto está sob a licença [MIT](https://github.com/Lucius78/Banco_Digital_API/blob/master/LICENSE). Consulte o arquivo `LICENSE` para obter mais detalhes.
 
 ## Contato
 
