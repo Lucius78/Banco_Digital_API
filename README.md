@@ -154,7 +154,7 @@ Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo `LICENS
 
 ## Contato
 
-Para perguntas ou feedback, entre em contato através do e-mail [seu-email@example.com].
+Para perguntas ou feedback, entre em contato através do e-mail [Luciano_Viera78@hotmail.com](Luciano_Viera78@hotmail.com).
 
 
 
